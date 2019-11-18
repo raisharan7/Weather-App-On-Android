@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="api_key">Enter Your API Key</string>
+    <string name="web_service_url">http://api.openweathermap.org/data/2.5/forecast/daily?q=</string>
+    <string name="weather_condition_image">A graphical representation</string>
+    <string name="high_temp">High: %s</string>
+    <string name="low_temp">Low: %s</string>
+    <string name="day_description">%l$s: %2$s</string>
+    <string name="humidity">Humidity: %s</string>
+    <string name="hint_text">Enter City</string>
+    <string name="read_error">Unable to read weather data</string>
+    <string name="connect_error">Unable to connect to OpenWeather</string>
+    <string name="invalid_url">Invalid URL</string>
+</resources>
